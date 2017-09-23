@@ -1,1 +1,0 @@
-# Delete-all-NICs-from-vSphere-VM
